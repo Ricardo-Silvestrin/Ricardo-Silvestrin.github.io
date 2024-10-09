@@ -1,1 +1,1 @@
-print ("hello_world")
+faz o L
