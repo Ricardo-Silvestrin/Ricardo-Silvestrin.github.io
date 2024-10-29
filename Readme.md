@@ -21,6 +21,9 @@ Ela é feita colocando pode blaze em uma poção estranha.
 # Poção do mestre tartaruga 
 Basta colocar um capacete de casco de tartaruga em uma poção estranha.
 
+# Poção de salto turbinado.
+Adiciona um pé de coelho a uma poção estranha
+
 # Poção de fraqueza 
 Você pode colocar um olho de aranha afermentado tanto em um frasco de água em uma poção estranha e em uma poção de força ou em uma poção mundana que dará uma poção de fraqueza
 
@@ -33,4 +36,14 @@ coloque um olho de aranha um um frasco d'água.
 # Poção de gotejante.
 coloque um bloco de slime em uma poção estranha.
 
-# Poção 
+# Poção de infestação.
+ela e feita colocando um blobo de pedra em uma poção estranha.
+
+# Poção de queda lenta.
+basta colocar uma membrana de phanton em uma poção estranha.
+
+# Poção de tecelagem.
+coloque um bloco de teia em uma poção estranha.
+
+# Poção de vento carregado.
+ela é feita colocando uma vara de breeze
