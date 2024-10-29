@@ -15,6 +15,9 @@ Ela é feita colocando uma cenoura dourada em uma poção estranha.
 # Poção de invisiblidade
 Adicione um olho de aranha afermentado a uma poção de visão noturna.
 
+# Poção de resistencia ao fogo.
+Ela é feita colocando um creme de magma em uma poção estranha. 
+
 # Poção de força
 Ela é feita colocando pode blaze em uma poção estranha.
 
@@ -22,10 +25,10 @@ Ela é feita colocando pode blaze em uma poção estranha.
 Basta colocar um capacete de casco de tartaruga em uma poção estranha.
 
 # Poção de salto turbinado.
-Adicione um pé de coelho a uma poção estranha
+Adicione um pé de coelho a uma poção estranha.
 
 # Poção de fraqueza 
-Você pode colocar um olho de aranha afermentado tanto em um frasco de água em uma poção estranha e em uma poção de força ou em uma poção mundana que dará uma poção de fraqueza
+Você pode colocar um olho de aranha afermentado tanto em um frasco de água em uma poção estranha e em uma poção de força ou em uma poção mundana que dará uma poção de fraqueza.
 
 # Poção de veneno
 Utilize um olho de aranha em uma poção estranha.
@@ -46,4 +49,4 @@ Basta colocar uma membrana de phanton em uma poção estranha.
 Coloque um bloco de teia em uma poção estranha.
 
 # Poção de vento carregado.
-Ela é feita colocando uma vara de breeze
+Ela é feita colocando uma vara de breeze em uma poção estranha.
