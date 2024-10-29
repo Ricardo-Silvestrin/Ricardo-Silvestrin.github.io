@@ -4,7 +4,7 @@ Para amplificar suas poções é nessesário ter glowstone,redstone,plóvora,baf
 para fazer qualquer poção é nessesário ter o fungo do nether e o pó de blaze, o pó de blaze para carregar o estand de poções e o fungo do nether para transformar os frascos d'água em poções estranhas.
 
 # Poção de Regeneração
-Ela é feita adicionando uma lágrima de ghast a uma poção estranha.
+Ela é feita adicionando uma lágrima de ghast a uma poção estranha ou em um frasco d'água.
 
 # Poção de vida instantânea
 Ela é feita usando um melancia dourada e colocando-a na poção estranha.
@@ -29,3 +29,8 @@ Utilize um olho de aranha em uma poção estranha.
 
 # Poção de dano instantâneo.
 coloque um olho de aranha um um frasco d'água.
+
+# Poção de gotejante.
+coloque um bloco de slime em uma poção estranha.
+
+# Poção 
