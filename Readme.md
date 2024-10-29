@@ -6,7 +6,6 @@ para fazer qualquer poção é nessesário ter o fungo do nether e o pó de blaz
 # Poção de Regeneração
 Ela é feita adicionando uma lágrima de ghast a uma poção estranha ou em um frasco d'água.
 
-# Poção de vida instantânea)
 # Poção de vida instantânea
 Ela é feita usando um melancia dourada e colocando-a na poção estranha.
 
